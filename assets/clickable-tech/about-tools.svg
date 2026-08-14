@@ -13,9 +13,9 @@
   <circle cx="38" cy="171" r="4" fill="#D74773"/>
   <text x="56" y="168" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Exploring data engineering and cloud technologies</text>
   <text x="56" y="189" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">through practical projects.</text>
-  <circle cx="38" cy="242" r="4" fill="#D74773"/>
-  <text x="56" y="239" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Focused on learning, improving and documenting</text>
-  <text x="56" y="260" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">my progress as I grow.</text>
+  <circle cx="38" cy="255" r="4" fill="#D74773"/>
+  <text x="56" y="253" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Focused on learning, improving and documenting</text>
+  <text x="56" y="274" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">my progress as I grow.</text>
   <line x1="30" y1="302" x2="390" y2="302" stroke="#E8C7D0"/>
   <text x="32" y="332" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#74223C">CURRENT FOCUS</text>
   <text x="32" y="359" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#6E5960">Learning by building real projects</text>
