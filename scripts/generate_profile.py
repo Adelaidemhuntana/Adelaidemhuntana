@@ -429,8 +429,10 @@ def stats_svg(user: dict) -> str:
 
 def write_assets(user: dict) -> None:
     ASSETS.mkdir(parents=True, exist_ok=True)
-    (ASSETS / "profile-header.svg").write_text(header_svg(), encoding="utf-8")
-    (ASSETS / "about-tech.svg").write_text(about_tech_svg(), encoding="utf-8")
+
+    # The header and About/Tech panel are curated static brand assets. They are
+    # intentionally not regenerated so the daily workflow cannot replace the
+    # approved wording, layout or embedded technology logos.
 
     repo_lookup = {repo["name"]: repo for repo in user["repositories"].get("nodes", [])}
     for name in PROJECTS:
