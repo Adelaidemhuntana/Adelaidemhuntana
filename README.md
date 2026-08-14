@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I am Adelaide Mhuntana. Software Engineer focused on Data and Cloud.">
+  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I am Adelaide Mhuntana. Software engineering student exploring data and cloud.">
 </p>
 
 <p align="center">
