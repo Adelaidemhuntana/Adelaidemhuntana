@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I am Adelaide Mhuntana. Software engineering student exploring data and cloud.">
+  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I am Adelaide. Software engineering student exploring data and cloud.">
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adelaidemhuntana" title="GitHub profile"><img src="https://img.shields.io/badge/GitHub-Adelaidemhuntana-7F1837?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/adelaide-mhuntana" title="LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-Adelaide%20Mhuntana-D92E68?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Adelaidemhuntana" title="GitHub profile"><img src="https://img.shields.io/badge/GitHub-A%20Montana-7F1837?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/a-montana-ba5424310/?isSelfProfile=true" title="LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-A%20Montana-D92E68?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://adelaidemhuntana.co.za" title="Portfolio website"><img src="https://img.shields.io/badge/Portfolio-adelaidemhuntana.co.za-E83E76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
