@@ -23,8 +23,3 @@
   <a href="https://github.com/Adelaidemhuntana/the-coding-lady"><img src="./assets/project-the-coding-lady.svg" width="49%" alt="The Coding Lady"></a>
   <a href="https://github.com/Adelaidemhuntana/aws-partyrock-educare-ai-sa"><img src="./assets/project-aws-partyrock-educare-ai-sa.svg" width="49%" alt="AWS PartyRock Educare AI South Africa"></a>
 </p>
-
-<p align="center">
-  <img src="./assets/github-stats.svg" width="100%" alt="Adelaide's live GitHub statistics and contribution activity.">
-</p>
-
