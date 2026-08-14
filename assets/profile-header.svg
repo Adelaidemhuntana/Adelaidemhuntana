@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Adelaide Mhuntana profile header</title>
-  <desc id="desc">Elegant pink professional GitHub banner for software engineering student Adelaide Mhuntana</desc>
+  <title id="title">A Montana profile header</title>
+  <desc id="desc">Elegant pink professional GitHub banner for software engineering student Adelaide</desc>
   <defs>
     <linearGradient id="paperGradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFDFB"/>
@@ -12,9 +12,9 @@
   <circle cx="1174" cy="27" r="13" fill="#7F1837"/>
   <path d="M1168 23c-2-5 3-7 6-4 3-3 8-1 6 4v7c-2 3-10 3-12 0z" fill="#FFF9F7"/>
 
-  <text x="58" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#7F1837">Hi, I’m Adelaide Mhuntana</text>
+  <text x="58" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#7F1837">Hi, I’m Adelaide</text>
   <text x="60" y="148" font-family="Arial, sans-serif" font-size="27" fill="#D92E68">Software Engineering Student | Exploring Data &amp; Cloud</text>
-  <text x="60" y="184" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="#7F1837">@Adelaidemhuntana</text>
+  <text x="60" y="184" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="#7F1837">@Amontana</text>
   <line x1="60" y1="201" x2="1158" y2="201" stroke="#EEC3CD"/>
   <rect x="60" y="208" width="5" height="35" fill="#E83E76"/>
   <text x="82" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#72535E">Building my skills one project at a time.</text>
@@ -29,4 +29,3 @@
     <line x1="1092" y1="87" x2="1162" y2="87"/>
   </g>
 </svg>
-
