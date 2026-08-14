@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adelaidemontana@gmail.com" title="Email Adelaide"><img src="https://img.shields.io/badge/Email-adelaidemontana%40gmail.com-7F1837?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Adelaide"></a>
-  <a href="https://www.linkedin.com/in/a-montana-ba5424310/?isSelfProfile=true" title="LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-A%20Montana-D92E68?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://adelaidemhuntana.co.za" title="Portfolio website"><img src="https://img.shields.io/badge/Portfolio-adelaidemhuntana.co.za-E83E76?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:adelaidemontana@gmail.com" title="Email Adelaide"><img src="./assets/contact-email.svg" height="32" alt="Email Adelaide"></a>
+  <a href="https://www.linkedin.com/in/a-montana-ba5424310/?isSelfProfile=true" title="LinkedIn profile"><img src="./assets/contact-linkedin.svg" height="32" alt="LinkedIn"></a>
+  <a href="https://adelaidemhuntana.co.za" title="Portfolio website"><img src="./assets/contact-portfolio.svg" height="32" alt="Portfolio"></a>
 </p>
 
 <h2 align="center">Featured Projects</h2>
