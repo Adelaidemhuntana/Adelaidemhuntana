@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="104" height="28" viewBox="0 0 104 28" role="img" aria-labelledby="title">
-  <title id="title">VS Code</title>
-  <rect width="104" height="28" rx="3" fill="#d6336c"/>
-  <path d="m22 5-8.1 6.4-4.7-3.5L6 10.6l4.7 3.4L6 17.4l3.2 2.7 4.7-3.5L22 23l3-1.4V6.4L22 5Zm0 4.6v8.8L16.4 14 22 9.6Z" fill="#fff"/>
-  <text x="32" y="18" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="10" font-weight="700">VS CODE</text>
-</svg>
