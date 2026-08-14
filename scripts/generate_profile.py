@@ -206,17 +206,12 @@ def header_svg() -> str:
   <circle cx="1174" cy="24" r="13" fill="{COLORS['wine']}"/>
   <path d="M1168 20c-2-5 3-7 6-4 3-3 8-1 6 4v7c-2 3-10 3-12 0z" fill="#FFF9F7"/>
 
-  <rect x="28" y="47" width="205" height="180" rx="4" fill="{COLORS['blush']}"/>
-  <rect x="54" y="64" width="154" height="146" fill="url(#roseGradient)" filter="url(#shadow)"/>
-  <text x="131" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#FFF9F7">AM</text>
-  <line x1="102" y1="185" x2="160" y2="185" stroke="#FFF9F7" stroke-width="2"/>
-
-  <text x="265" y="99" font-family="Georgia, serif" font-size="44" fill="{COLORS['wine']}">Hi, I’m Adelaide Mhuntana</text>
-  <text x="266" y="139" font-family="Arial, sans-serif" font-size="26" fill="{COLORS['rose']}">Software Engineer | Data &amp; Cloud</text>
-  <text x="266" y="174" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="{COLORS['wine']}">@Adelaidemhuntana</text>
-  <line x1="266" y1="191" x2="1158" y2="191" stroke="{COLORS['line']}"/>
-  <rect x="266" y="199" width="5" height="38" fill="{COLORS['hot']}"/>
-  <text x="288" y="224" font-family="Georgia, serif" font-size="17" font-style="italic" fill="{COLORS['muted']}">Building reliable data &amp; cloud solutions that turn ideas into impact.</text>
+  <text x="58" y="102" font-family="Georgia, serif" font-size="54" fill="{COLORS['wine']}">Hi, I’m Adelaide Mhuntana</text>
+  <text x="60" y="145" font-family="Arial, sans-serif" font-size="27" fill="{COLORS['rose']}">Software Engineer | Data &amp; Cloud</text>
+  <text x="60" y="179" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="{COLORS['wine']}">@Adelaidemhuntana</text>
+  <line x1="60" y1="194" x2="1158" y2="194" stroke="{COLORS['line']}"/>
+  <rect x="60" y="202" width="5" height="38" fill="{COLORS['hot']}"/>
+  <text x="82" y="227" font-family="Georgia, serif" font-size="17" font-style="italic" fill="{COLORS['muted']}">Building reliable data &amp; cloud solutions that turn ideas into impact.</text>
 
   <path d="M930 191V91a115 115 0 0 1 115-115" fill="none" stroke="{COLORS['soft']}" stroke-width="34" opacity="0.78"/>
   <path d="M1006 191v-63a73 73 0 0 1 73-73" fill="none" stroke="{COLORS['wine']}" stroke-width="30" opacity="0.96"/>
