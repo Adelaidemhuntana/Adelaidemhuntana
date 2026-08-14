@@ -15,7 +15,7 @@
   <a href="https://github.com/Adelaidemhuntana/Mahube-valley-primary-school-website" title="Python — Smart School Placement Hub"><img src="https://img.shields.io/badge/Python-7F1837?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></a>
   <a href="https://github.com/Adelaidemhuntana/my-shecodes-plus-weather-final-project" title="JavaScript — SheCodes Weather Project"><img src="https://img.shields.io/badge/JavaScript-A61E4D?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript"></a>
   <a href="https://github.com/Adelaidemhuntana/my-shecodes-plus-weather-final-project" title="HTML5 — SheCodes Weather Project"><img src="https://img.shields.io/badge/HTML5-C2255C?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"></a>
-  <a href="https://github.com/Adelaidemhuntana/my-shecodes-plus-weather-final-project" title="CSS3 — SheCodes Weather Project"><img src="https://img.shields.io/badge/CSS3-D6336C?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></a>
+  <a href="https://github.com/Adelaidemhuntana/my-shecodes-plus-weather-final-project" title="CSS3 — SheCodes Weather Project"><img src="https://img.shields.io/badge/CSS3-D6336C?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3"></a>
   <a href="https://github.com/Adelaidemhuntana/Mahube-valley-primary-school-website" title="SQL — Smart School Placement Hub"><img src="https://img.shields.io/badge/SQL-E64980?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL"></a>
   <a href="https://github.com/Adelaidemhuntana/multi-agent-ai-course-generator" title="Bash — Multi-Agent AI Course Generator"><img src="https://img.shields.io/badge/Bash-9D174D?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
 </p>
@@ -30,13 +30,13 @@
 <p align="center"><strong>CLOUD</strong></p>
 <p align="center">
   <a href="https://github.com/Adelaidemhuntana/multi-agent-ai-course-generator" title="Google Cloud — Multi-Agent AI Course Generator"><img src="https://img.shields.io/badge/Google_Cloud-9D174D?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud"></a>
-  <a href="https://github.com/Adelaidemhuntana/aws-partyrock-educare-ai-sa" title="AWS PartyRock — EduCare AI SA"><img src="https://img.shields.io/badge/AWS_PartyRock-C2255C?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS PartyRock"></a>
+  <a href="https://github.com/Adelaidemhuntana/aws-partyrock-educare-ai-sa" title="AWS PartyRock — EduCare AI SA"><img src="./assets/tech-aws-partyrock.svg" height="28" alt="AWS PartyRock"></a>
 </p>
 
 <p align="center"><strong>TOOLS</strong></p>
 <p align="center">
   <a href="https://github.com/Adelaidemhuntana/multi-agent-ai-course-generator" title="Git — Multi-Agent AI Course Generator"><img src="https://img.shields.io/badge/Git-A61E4D?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"></a>
-  <a href="https://github.com/Adelaidemhuntana/adelaide-portfolio" title="VS Code — Adelaide Portfolio"><img src="https://img.shields.io/badge/VS_Code-D6336C?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"></a>
+  <a href="https://github.com/Adelaidemhuntana/adelaide-portfolio" title="VS Code — Adelaide Portfolio"><img src="./assets/tech-vscode.svg" height="28" alt="VS Code"></a>
   <a href="https://github.com/Adelaidemhuntana/multi-agent-ai-course-generator" title="Docker — Multi-Agent AI Course Generator"><img src="https://img.shields.io/badge/Docker-E64980?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></a>
 </p>
 
