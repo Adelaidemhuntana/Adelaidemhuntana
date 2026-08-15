@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="76" viewBox="0 72 420 76" role="img" aria-labelledby="title">
+  <title id="title">About Adelaide languages</title>
+  
+  <path d="M20 1H420v404H20C9.5 405 1 396.5 1 386V20C1 9.5 9.5 1 20 1Z" fill="#FFFCFA" stroke="#E8C7D0"/>
+  <line x1="419" y1="24" x2="419" y2="382" stroke="#E8C7D0"/>
+  <circle cx="38" cy="42" r="18" fill="#FBE8EC"/>
+  <circle cx="38" cy="37" r="5" fill="none" stroke="#D74773" stroke-width="2"/>
+  <path d="M28 53c2-9 18-9 20 0" fill="none" stroke="#D74773" stroke-width="2"/>
+  <text x="68" y="48" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#D74773">ABOUT ME</text>
+  <circle cx="38" cy="100" r="4" fill="#D74773"/>
+  <text x="56" y="97" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Software engineering student building a strong</text>
+  <text x="56" y="118" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">foundation in programming and problem solving.</text>
+  <circle cx="38" cy="171" r="4" fill="#D74773"/>
+  <text x="56" y="168" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Exploring data engineering and cloud technologies</text>
+  <text x="56" y="189" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">through practical projects.</text>
+  <circle cx="38" cy="255" r="4" fill="#D74773"/>
+  <text x="56" y="253" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">Focused on learning, improving and documenting</text>
+  <text x="56" y="274" font-family="Arial, sans-serif" font-size="14" fill="#3D2B31">my progress as I grow.</text>
+  <line x1="30" y1="302" x2="390" y2="302" stroke="#E8C7D0"/>
+  <text x="32" y="332" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#74223C">CURRENT FOCUS</text>
+  <text x="32" y="359" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#6E5960">Learning by building real projects</text>
+  <text x="32" y="381" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#6E5960">in software, data and cloud.</text>
+
+</svg>

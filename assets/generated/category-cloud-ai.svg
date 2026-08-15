@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud &amp; AI</title>
+  <desc id="desc">Cloud-ready APIs, intelligent systems and learning tools</desc>
+  <circle cx="24" cy="28" r="19" fill="#FBE8EC"/>
+  <text x="24" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#C32D5D">AI</text>
+  <text x="57" y="34" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4" fill="#8B1E42">CLOUD &amp; AI</text>
+  <text x="57" y="58" font-family="Arial, sans-serif" font-size="12.5" fill="#72535E">Cloud-ready APIs, intelligent systems and learning tools</text>
+  <line x1="510" y1="28" x2="1190" y2="28" stroke="#E8C7D0"/>
+</svg>

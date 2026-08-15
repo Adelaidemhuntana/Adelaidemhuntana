@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="96" viewBox="0 0 370 96" role="img" aria-labelledby="title desc">
+  <title id="title">Tshika Ya Setshaba</title>
+  <desc id="desc">A practical website project developed while building frontend skills.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFDFB"/><stop offset="1" stop-color="#FFF5F3"/></linearGradient></defs>
+  <rect x="1" y="1" width="368" height="94" rx="14" fill="url(#paper)" stroke="#E8C7D0"/>
+  <circle cx="40" cy="48" r="24" fill="#FBE8EC"/>
+  <text x="40" y="53" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#C32D5D">WEB</text>
+  <text x="76" y="42" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#7F1837">Tshika Ya Setshaba</text>
+  <text x="76" y="64" font-family="Arial, sans-serif" font-size="11" fill="#72535E">HTML</text>
+  <path d="M340 25h11v11M350 26l-13 13" fill="none" stroke="#E83E76" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

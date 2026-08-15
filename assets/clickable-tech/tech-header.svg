@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="72" viewBox="0 0 780 72" role="img" aria-labelledby="title">
+  <title id="title">Tech Stack</title>
+  
+  <path d="M0 1h760c10.5 0 19 8.5 19 19v52H0Z" fill="#FFFCFA" stroke="#E8C7D0"/>
+  <text x="42" y="28" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#D74773">TECH STACK</text>
+  <text x="42" y="51" font-family="Arial, sans-serif" font-size="11" fill="#6E5960">Click a technology to see it used in one of my projects.</text>
+
+</svg>

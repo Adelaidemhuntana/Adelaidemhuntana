@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="220" viewBox="0 0 570 220" role="img" aria-labelledby="title desc">
+  <title id="title">Adelaide Portfolio</title>
+  <desc id="desc">A personal portfolio presenting my software, data and cloud projects.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFDFB"/><stop offset="1" stop-color="#FFF5F3"/></linearGradient>
+    <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E83E76"/><stop offset="1" stop-color="#9A1E45"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="568" height="218" rx="18" fill="url(#paper)" stroke="#E8C7D0"/>
+  <rect x="22" y="24" width="72" height="72" rx="15" fill="url(#rose)"/>
+  <text x="58" y="69" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#FFF9F7">AM</text>
+  <text x="112" y="48" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#7F1837"><tspan x="112" dy="0">Adelaide Portfolio</tspan></text>
+  <text x="112" y="94" font-family="Arial, sans-serif" font-size="13.5" fill="#493139"><tspan x="112" dy="0">A personal portfolio presenting my software, data</tspan><tspan x="112" dy="21">and cloud projects.</tspan></text>
+  <rect x="112" y="176" width="54" height="26" rx="7" fill="#FFF0F3" stroke="#E8C7D0"/><text x="139" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#7F1837">HTML</text><rect x="174" y="176" width="54" height="26" rx="7" fill="#FFF0F3" stroke="#E8C7D0"/><text x="201" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#7F1837">CSS</text><rect x="236" y="176" width="94" height="26" rx="7" fill="#FFF0F3" stroke="#E8C7D0"/><text x="283" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#7F1837">JavaScript</text><rect x="338" y="176" width="87" height="26" rx="7" fill="#FFF0F3" stroke="#E8C7D0"/><text x="381.5" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" fill="#7F1837">Portfolio</text>
+  <path d="M530 26h14v14M543 27l-16 16" fill="none" stroke="#E83E76" stroke-width="2" stroke-linecap="round"/>
+</svg>
