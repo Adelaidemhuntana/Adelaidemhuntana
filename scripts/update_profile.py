@@ -631,10 +631,6 @@ def placeholder_weeks(total: int) -> list[dict[str, Any]]:
 
 
 def stats_svg(data: dict[str, Any]) -> str:
-    repos = data["repos"]
-    public_repos = int(data.get("user", {}).get("public_repos", len(repos)))
-    followers = int(data.get("user", {}).get("followers", 0))
-    total_stars = sum(int(repo.get("stargazers_count", 0)) for repo in repos)
     total_contributions = int(data.get("contributions", {}).get("total", 0))
     weeks = data.get("contributions", {}).get("weeks") or placeholder_weeks(total_contributions)
 
@@ -648,7 +644,7 @@ def stats_svg(data: dict[str, Any]) -> str:
     squares = []
     month_labels = []
     seen_months: set[str] = set()
-    graph_x, graph_y, step, square = 646, 91, 10, 8
+    graph_x, graph_y, step, square = 72, 98, 20, 16
     for week_index, week in enumerate(weeks[-53:]):
         for weekday, day in enumerate(week.get("contributionDays", [])):
             if weekday > 6:
@@ -670,40 +666,24 @@ def stats_svg(data: dict[str, Any]) -> str:
                     except ValueError:
                         label = ""
                     month_labels.append(
-                        f'<text x="{x}" y="78" font-family="Arial, sans-serif" font-size="9" fill="#72535E">{label}</text>'
+                        f'<text x="{x}" y="82" font-family="Arial, sans-serif" font-size="11" fill="#72535E">{label}</text>'
                     )
 
-    stats = [
-        (total_contributions, "Contributions"),
-        (public_repos, "Public repositories"),
-        (total_stars, "Total stars"),
-        (followers, "Followers"),
-    ]
-    boxes = []
-    for index, (value, label) in enumerate(stats):
-        x = 32 + index * 148
-        boxes.append(
-            f'<rect x="{x}" y="76" width="132" height="132" rx="15" fill="#FFF4F5" stroke="#EEC3CD"/>'
-            f'<text x="{x + 66}" y="133" text-anchor="middle" font-family="Georgia, serif" font-size="31" fill="#7F1837">{value}</text>'
-            f'<text x="{x + 66}" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#72535E">{escape(label)}</text>'
-        )
-
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-  <title id="title">Live GitHub statistics</title>
-  <desc id="desc">Automatically updated GitHub statistics and contribution calendar for A Montana</desc>
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution activity</title>
+  <desc id="desc">Automatically updated contribution calendar for A Montana</desc>
   <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFDFB"/><stop offset="1" stop-color="#FFF3F2"/></linearGradient></defs>
-  <rect x="1" y="1" width="1198" height="248" rx="20" fill="url(#paper)" stroke="#EEC3CD"/>
+  <rect x="1" y="1" width="1198" height="288" rx="20" fill="url(#paper)" stroke="#EEC3CD"/>
   <circle cx="34" cy="38" r="18" fill="#D92E68"/>
   <path d="M25 47V37m7 10V29m7 18V34m7 13V25" stroke="#FFF9F7" stroke-width="2"/>
-  <text x="64" y="44" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.8" fill="#D92E68">GITHUB STATS</text>
-  {''.join(boxes)}
-  <text x="646" y="44" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#7F1837">Contribution activity</text>
+  <text x="64" y="44" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.8" fill="#D92E68">CONTRIBUTION ACTIVITY</text>
+  <text x="1168" y="44" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#72535E">{total_contributions} contributions in the last year</text>
   {''.join(month_labels)}
   {''.join(squares)}
-  <text x="646" y="188" font-family="Arial, sans-serif" font-size="10" fill="#72535E">Less</text>
-  <rect x="676" y="179" width="9" height="9" rx="2" fill="#F9E8EC"/><rect x="689" y="179" width="9" height="9" rx="2" fill="#F5B9C8"/><rect x="702" y="179" width="9" height="9" rx="2" fill="#EC7898"/><rect x="715" y="179" width="9" height="9" rx="2" fill="#D9366B"/><rect x="728" y="179" width="9" height="9" rx="2" fill="#8B1B3D"/>
-  <text x="744" y="188" font-family="Arial, sans-serif" font-size="10" fill="#72535E">More</text>
-  <text x="1168" y="226" text-anchor="end" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#72535E">Updated automatically every 6 hours</text>
+  <text x="72" y="263" font-family="Arial, sans-serif" font-size="11" fill="#72535E">Less</text>
+  <rect x="104" y="251" width="13" height="13" rx="3" fill="#F9E8EC"/><rect x="122" y="251" width="13" height="13" rx="3" fill="#F5B9C8"/><rect x="140" y="251" width="13" height="13" rx="3" fill="#EC7898"/><rect x="158" y="251" width="13" height="13" rx="3" fill="#D9366B"/><rect x="176" y="251" width="13" height="13" rx="3" fill="#8B1B3D"/>
+  <text x="195" y="263" font-family="Arial, sans-serif" font-size="11" fill="#72535E">More</text>
+  <text x="1168" y="263" text-anchor="end" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#72535E">Updated automatically every 6 hours</text>
 </svg>
 '''
 
