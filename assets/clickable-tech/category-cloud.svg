@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="84" viewBox="0 0 140 84" role="img" aria-labelledby="title">
-  <title id="title">Cloud</title>
-  
-  <rect width="140" height="84" fill="#FFFCFA"/>
-  <line x1="139" y1="0" x2="139" y2="84" stroke="#EED7DD"/>
-  <text x="42" y="31" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#7F1837">CLOUD</text>
-
-</svg>
