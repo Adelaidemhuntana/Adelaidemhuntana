@@ -49,6 +49,12 @@
   <a href="https://github.com/Adelaidemhuntana/jhb58-mars_rover_prep"><img src="./assets/generated/project-1090790131.svg" width="32%" alt="Mars Rover Preparation"></a>
 </p>
 
+<p><img src="./assets/generated/category-other-projects.svg" width="100%" alt="Other Projects"></p>
+
+<p align="center">
+  <a href="https://github.com/Adelaidemhuntana/GuardianGrid"><img src="./assets/generated/project-1375635058.svg" width="49%" alt="Guardiangrid"></a>
+</p>
+
 <p><img src="./assets/generated/category-github-activity.svg" width="100%" alt="GitHub Activity"></p>
 
 <p align="center"><img src="./assets/generated/github-stats.svg" width="100%" alt="Automatically updated GitHub statistics"></p>
